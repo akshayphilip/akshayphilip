@@ -8,5 +8,5 @@ I'm a mechanical engineer and huge robotics enthusiast, currently learning ROS(R
 
 ## Find me around the web 🌎:
 * Sharing updates on [LinkedIn](https://www.linkedin.com/in/akshayphilip/)
-* Contact me through akshayphilip@gmail.com
-* Blog and mail on progress
+* Contact me through akshayphilip@gmail.com:email:
+* Blog and mail on progress 
