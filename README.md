@@ -4,7 +4,6 @@ I'm a mechanical engineer and huge robotics enthusiast, currently learning ROS(R
 <p>&nbsp;</p>
 
 ![photo](https://github.com/akshayphilip/akshayphilip/blob/main/images/resize.jpg?raw=true)
-<p>&nbsp;</p>
 
 
 ## Find me around the web 🌎:
