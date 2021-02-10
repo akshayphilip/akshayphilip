@@ -1,5 +1,5 @@
 # Hi I'm akshay
-## **about me**
+## **About me**
 I'm a mechanical engineer and huge robotics enthusiast, currently learning ROS(Robot Operative system) and programming languages such as python and c++. I am pretty familiar with mathematics concepts needed for robotics.
 
 
