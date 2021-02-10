@@ -3,7 +3,7 @@
 I'm a mechanical engineer and huge robotics enthusiast, currently learning ROS(Robot Operative system) and programming languages such as python and c++. I am pretty familiar with mathematics concepts needed for robotics.
 
 
-![photo](https://github.com/akshayphilip/akshayphilip/blob/main/images/A29I8446_2.jpg?raw=true)
+![photo](https://github.com/akshayphilip/akshayphilip/blob/main/images/resize.jpg?raw=true)
 
 
 ## Find me around the web 🌎:
