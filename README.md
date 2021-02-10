@@ -1,4 +1,4 @@
-# Hi I'm akshay
+# **Hi I'm akshay**
 ## **About me**
 I'm a mechanical engineer and huge robotics enthusiast, currently learning ROS(Robot Operative system) and programming languages such as python and c++. I am pretty familiar with mathematics concepts needed for robotics.
 
@@ -8,5 +8,5 @@ I'm a mechanical engineer and huge robotics enthusiast, currently learning ROS(R
 
 ## Find me around the web 🌎:
 * Sharing updates on [LinkedIn](https://www.linkedin.com/in/akshayphilip/)
-* Contact me through [Mail](akshayphilip@gmail.com)
+* Contact me through akshayphilip@gmail.com
 * Blog and mail on progress
