@@ -6,7 +6,7 @@ I'm a mechanical engineer and huge robotics enthusiast, currently learning ROS(R
 ![photo](https://github.com/akshayphilip/akshayphilip/blob/main/images/snap%20edited.jpg?raw=true)
 
 
-## Find me around the web 🌎:
+## Find me around the web 🌎 :
 * Sharing updates on [LinkedIn](https://www.linkedin.com/in/akshayphilip/) :briefcase:
 * Contact me through akshayphilip@gmail.com :email:
 * Blog and mail on progress :no_entry:
