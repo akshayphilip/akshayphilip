@@ -5,6 +5,12 @@ I'm a mechanical engineer and huge robotics enthusiast, currently learning ROS(R
 
 ![photo](https://github.com/akshayphilip/akshayphilip/blob/main/images/snap%20edited.jpg?raw=true)
 
+## **Projects**
+### PLC Projects
+
+* [BottleStn_auto_RSlogix5000_AB](https://github.com/akshayphilip/BottleStn_auto_RSlogix5000_AB)
+* [Pick_Plac_autom_seimens_S7-1500](https://github.com/akshayphilip/Pick_Plac_autom_seimens_S7-1500)
+
 
 ## Find me around the web 🌎 :
 * Sharing updates on [LinkedIn](https://www.linkedin.com/in/akshayphilip/) :briefcase:
